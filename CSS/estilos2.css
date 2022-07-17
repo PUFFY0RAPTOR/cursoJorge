@@ -1,0 +1,92 @@
+header{
+    width: 100%;
+    padding: 10px;
+    background-color: aquamarine;
+    display: flex;
+}
+
+#opciones{
+    width: 48%;
+    height: 50px;
+    background-color: rgb(132, 128, 190);
+}
+
+nav{
+    width: 48%;
+    height: 50px;
+    background-color: rgb(76, 180, 7);
+    float: right;
+    margin-left: 3%;
+}
+
+main{
+    background-color: cadetblue;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+}
+
+#articulo1{
+    background-color: antiquewhite;
+    width: 23%;
+    height: 150px;
+    float: left;
+    margin-right: 2%;
+}
+
+#articulo2{
+    background-color: burlywood;
+    width: 23%;
+    height: 150px;
+    margin-right: 2%;
+}
+
+#imagenes{
+    background-color: thistle;
+    width: 49%;
+    height: 150px;
+    float: right;
+}
+
+#contenedor{
+    background-color: wheat;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+}
+
+#comentarios{
+    background-color: tomato;
+    width: 49%;
+    height: 30px;
+    float: left;
+    margin-right: 2%;
+}
+
+#fecha{
+    background-color: tan;
+    width: 24%;
+    height: 30px;
+    margin-right: 2%;
+}
+
+#hora{
+    background-color: silver ;
+    width: 24%;
+    height: 30px;
+    float: right;
+}
+
+footer{
+    background-color: royalblue;
+    width: 100%;
+    height: 100px;
+}
+
+#mapa{
+    background-color: chocolate;
+    width: 25%;
+    height: 50px;
+    float: right;
+    margin: 25px;
+}
